@@ -4,8 +4,8 @@
 //=============================================================================
 /*:
  * @plugindesc 1.0.0 Allows you to customize the default shadows.
- * @author Alexander Shepherd
- * @website www.alexandershepherd.xyz
+ * @author arsjobus
+ * @website https://arsjobus.github.io/game-dev/
  *
  * @param Red Value
  * @desc The red value of the shadows. Specify a floating point value between 0.0 and 1.0
